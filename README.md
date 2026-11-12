@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/8aa773c0-2c24-47e2-8dfd-8fe72d890fe8" />
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/a0bd6cf2-6bb9-43d0-b3c3-430d05ace9c8" />
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/e21362ea-9f1a-47f1-af95-2ac02d89a565" />
 # AdventureWorks Sales Analysis – Power BI Dashboard
 
 ## Project Overview
